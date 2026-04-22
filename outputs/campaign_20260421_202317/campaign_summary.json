@@ -1,0 +1,31 @@
+{
+  "timestamp": "20260421_202317",
+  "product_info": {
+    "company_name": "McDonald's",
+    "company_description": "The world's leading global foodservice retailer, serving millions of customers daily with quality, fast, and convenient food.",
+    "product_name": "Mushroom Swiss Burger",
+    "product_description": "A juicy 100% beef patty topped with savory sauteed mushrooms, melted Swiss cheese, crispy onions, and our signature sauce on a toasted sesame seed bun.",
+    "target_audience": "Adults 18-45 who appreciate premium burger flavors, foodies looking for a gourmet fast-food experience, and mushroom lovers",
+    "selling_points": [
+      "Made with 100% pure beef, never frozen",
+      "Real sauteed mushrooms with garlic and herbs",
+      "Premium Swiss cheese, not processed American",
+      "Limited-time offering - available only for a short time"
+    ],
+    "brand_colors": "#FFC72C, #DA291C, #27251F",
+    "call_to_action": "Try it today at your local McDonald's or order on the app!",
+    "additional_info": "Emphasize the gourmet, premium quality of the burger. The mood should feel warm, appetizing, and crave-worthy. Highlight the melting Swiss cheese and sizzling mushrooms."
+  },
+  "campaign_theme": {
+    "slogan": "Savor the Richness of Our Mushroom Swiss Burger",
+    "theme": "Indulge in a gourmet experience with every bite, showcasing the rich, savory flavors of premium ingredients that elevate your fast-food cravings.",
+    "tone": "Warm, sophisticated, and crave-worthy",
+    "color_palette": "#FFC72C, #DA291C, #27251F",
+    "visual_style": "Rich, close-up shots of the Mushroom Swiss Burger highlighting the melted Swiss cheese, saut\u00e9ed mushrooms glistening with garlic, and crispy onions, set against a rustic wooden background to evoke a cozy and inviting atmosphere."
+  },
+  "generated_files": {
+    "theme": "/Users/cadecermak/Masters/FA690/Mini-Project 3/outputs/campaign_20260421_202317/slogan_theme.txt",
+    "poster": "/Users/cadecermak/Masters/FA690/Mini-Project 3/outputs/campaign_20260421_202317/poster.png",
+    "video": "/Users/cadecermak/Masters/FA690/Mini-Project 3/outputs/campaign_20260421_202317/ad_video.mp4"
+  }
+}

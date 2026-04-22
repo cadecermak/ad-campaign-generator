@@ -34,8 +34,6 @@ env/
 ENV/
 .venv
 
-# Generated campaign assets (optional - remove if you want to track campaigns)
-campaign_*/
 
 # IDE
 .idea/
@@ -45,7 +43,7 @@ campaign_*/
 *~
 
 claude
-outputs
+
 
 # OS
 .DS_Store
